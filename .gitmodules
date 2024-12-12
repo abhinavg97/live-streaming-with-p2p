@@ -1,0 +1,18 @@
+[submodule "live-stream-origin"]
+	path = live-stream-origin
+	url = https://github.com/abhinavg97/live-stream-origin.git
+[submodule "live-stream-pop"]
+	path = live-stream-pop
+	url = https://github.com/abhinavg97/live-stream-pop.git
+[submodule "live-stream-client-discovery"]
+	path = live-stream-client-discovery
+	url = https://github.com/abhinavg97/live-stream-client-discovery.git
+[submodule "live-stream-webserver"]
+	path = live-stream-webserver
+	url = https://github.com/abhinavg97/live-stream-webserver.git
+[submodule "live-stream-loadtest"]
+	path = live-stream-loadtest
+	url = https://github.com/abhinavg97/live-stream-loadtest.git
+[submodule "latency-scraper"]
+	path = latency-scraper
+	url = https://github.com/ak5055/latency-scraper.git
